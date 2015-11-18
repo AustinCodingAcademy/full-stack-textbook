@@ -33,18 +33,18 @@
 * Must have excelled in previous Backend and Frontend courses
 * Completed Pre-Work
   * All Students
-    * Codecademy Command Line Tutorial
-    * Codeschool Git Tutorial
-    * Codecademy HTML/CSS Tutorial
-    * CSS Diner
-    * Codecademy Build a Website Tutorial
-    * Codecademy jQuery Tutorial
-    * Codecademy Build an Interactive Website Tutorial
+    * [Codecademy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line)
+    * [Codeschool Git Tutorial](https://www.codeschool.com/courses/try-git)
+    * [Codecademy HTML & CSS Tutorial](https://www.codecademy.com/learn/web)
+    * [CSS Diner](https://flukeout.github.io/)
+    * [Codecademy Make a Website Tutorial](https://www.codecademy.com/skills/make-a-website)
+    * [Codecademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
+    * [Codecademy Make an Interactive Website Tutorial](https://www.codecademy.com/skills/make-an-interactive-website)
   * Backend
-    * Codecademy PHP Tutorial
-    * SQLZOO SQL Tutorials and Quizzes
-    * Laravel 5.1 Fundamentals
+    * [Codecademy PHP Tutorial](https://www.codecademy.com/learn/php)
+    * [SQLZOO SQL Tutorials and Quizzes](http://sqlzoo.net/wiki/SQL_Tutorial)
+    * [Laravel 5.1 Fundamentals](http://devdojo.com/series/laravel-5-1-basics)
   * Frontend
-    * Codecademy Javascript Tutorial
-    * Codecademy jQuery Tutorial
-    * Codeschool Backbone Tutorial ($)
+    * [Codecademy JavaScript Tutorial](https://www.codecademy.com/learn/javascript)
+    * [Codecademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
+    * [Codeschool Backbone Tutorial](https://www.codeschool.com/courses/anatomy-of-backbone-js)
