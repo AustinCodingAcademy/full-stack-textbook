@@ -1,12 +1,13 @@
-# full-stack-textbook
+# Austin Coding Academy
+## Full Stack Textbook
 
-## Skills Learned:
+### Skills Learned:
 
-### Development
+#### Development
 * Git/Github workflow utilizing Commits, Branches, Pull Requests and Code Reviews
 * Agile environment, complete with deadlines.
 
-### Backend
+#### Backend
 * LAMP stack
 * Environment setup using MAMP
 * Database Management
@@ -14,21 +15,21 @@
 * User Authentication
 * Building a RESTful API for frontend consumption
 
-### Frontend
+#### Frontend
 * Backbone Framework
 * API consumption
 * Choice of CSS Frameworks (Bootstrap, Foundation, Material, Skeleton)
 * Code management workflows using a task runner (Gulp)
 
-### Dev Ops
+#### Dev Ops
 * Deployment to Heroku
 
-## What you'll leave with
+### What you'll leave with
 * 1 - 3 functional full-stack web applications, hosted on Heroku
 * A personal website with an up-to-date resume and portfolio
 * Interview training and offer negotiation skills
 
-## Prerequisites
+### Prerequisites
 * Must have excelled in previous Backend and Frontend courses
 * Completed Pre-Work
   * All Students
