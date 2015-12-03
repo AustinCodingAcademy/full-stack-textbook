@@ -32,11 +32,12 @@
 ### Prerequisites
 * Must have excelled in previous Backend and Frontend courses
 * Completed Pre-Work
-  * All Students
+  * UI/UX
     * [Codecademy Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line)
     * [Codeschool Git Tutorial](https://www.codeschool.com/courses/try-git)
     * [Codecademy HTML & CSS Tutorial](https://www.codecademy.com/learn/web)
     * [CSS Diner](https://flukeout.github.io/)
+    * [Flexbox Froggy](http://flexboxfroggy.com/)
     * [Codecademy Make a Website Tutorial](https://www.codecademy.com/skills/make-a-website)
     * [Codecademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
     * [Codecademy Make an Interactive Website Tutorial](https://www.codecademy.com/skills/make-an-interactive-website)
