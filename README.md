@@ -45,7 +45,11 @@
     * [Codecademy PHP Tutorial](https://www.codecademy.com/learn/php)
     * [SQLZOO SQL Tutorials and Quizzes](http://sqlzoo.net/wiki/SQL_Tutorial)
     * [Laravel 5.1 Fundamentals](http://devdojo.com/series/laravel-5-1-basics)
+    * [Laravel - Build a Basic Task List](http://laravel.com/docs/5.1/quickstart)
   * Frontend
     * [Codecademy JavaScript Tutorial](https://www.codecademy.com/learn/javascript)
     * [Codecademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
+    * [Backbone.js Tutorials (Beginners)](https://backbonetutorials.com/)
+    * [Hello Backbone.js](http://arturadib.com/hello-backbonejs/)
+    * [Backbone.js for Absolute Beginners](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/)
     * [Codeschool Backbone Tutorial](https://www.codeschool.com/courses/anatomy-of-backbone-js)
