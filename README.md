@@ -53,4 +53,4 @@
     * [Hello Backbone.js](http://arturadib.com/hello-backbonejs/)
     * [Backbone.js for Absolute Beginners](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/)
     * [Codeschool Backbone Tutorial](https://www.codeschool.com/courses/anatomy-of-backbone-js)
-      * Here's a [$9 Coupon Code!](https://www.codeschool.com/enrollments/dC90a2Q1T1FTRFpHWmpuMFJHYnIwWURxeWg3WE0wY0dsb1FtZnh5U3pUUT0tLWhDN2ttVS9ZOEFBVk8yRHpRYlFrbHc9PQ==?mbsy=7Rfvv&mbsy_source=d04bfb49-c73b-42fc-b62d-299b5edc344e&campaignid=18315)
+      * Here's a [$9 Coupon Code](https://www.codeschool.com/enrollments/dC90a2Q1T1FTRFpHWmpuMFJHYnIwWURxeWg3WE0wY0dsb1FtZnh5U3pUUT0tLWhDN2ttVS9ZOEFBVk8yRHpRYlFrbHc9PQ==?mbsy=7Rfvv&mbsy_source=d04bfb49-c73b-42fc-b62d-299b5edc344e&campaignid=18315)!
