@@ -11,10 +11,13 @@
 * [SQLite](https://www.sqlite.org) Database Management
 * [Laravel](http://laravel.com/) Framework
   * User Authentication
-* Building a RESTful API for frontend consumption
+  * Database Migrations
+  * Model-View-Controller (MVC) Architecture
+  * Building a RESTful API for frontend consumption
 
 #### Frontend
 * [Backbone](http://backbonejs.org/) Framework
+  * Model-View-* (MV*) Architecture
 * Utilizing popular libraries such as [Underscore](http://underscorejs.org/) and [jQuery](http://jquery.com/)
 * RESTful API consumption
 * [Foundation 6](http://foundation.zurb.com/sites/docs/) CSS framework
