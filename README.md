@@ -8,21 +8,22 @@
 * Agile environment, complete with deadlines.
 
 #### Backend
-* LAMP stack
-* Environment setup using MAMP
-* Database Management
-* Laravel Framework
-* User Authentication
+* [MAMP](https://www.mamp.info/en/) Stack
+* [SQLite](https://www.sqlite.org) Database Management
+* [Laravel](http://laravel.com/) Framework
+  * User Authentication
 * Building a RESTful API for frontend consumption
 
 #### Frontend
-* Backbone Framework
-* API consumption
-* Choice of CSS Frameworks (Bootstrap, Foundation, Material, Skeleton)
-* Code management workflows using a task runner (Gulp)
+* [Backbone](http://backbonejs.org/) Framework
+* Utilizing popular libraries such as [Underscore](http://underscorejs.org/) and [jQuery](http://jquery.com/)
+* RESTful API consumption
+* [Foundation 6](http://foundation.zurb.com/sites/docs/) CSS framework
+* [Sass](http://sass-lang.com/) CSS preprocessing
+* Code management workflows using [Gulp](http://gulpjs.com/)
 
 #### Dev Ops
-* Deployment to Heroku
+* Deployment to [Heroku](https://www.heroku.com/platform)
 
 ### What you'll leave with
 * 1 - 3 functional full-stack web applications, hosted on Heroku
