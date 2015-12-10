@@ -8,7 +8,6 @@
 * Agile environment, complete with deadlines.
 
 #### Backend
-* [MAMP](https://www.mamp.info/en/) Stack
 * [SQLite](https://www.sqlite.org) Database Management
 * [Laravel](http://laravel.com/) Framework
   * User Authentication
