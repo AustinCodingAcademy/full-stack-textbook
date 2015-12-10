@@ -23,6 +23,8 @@
 * [Foundation 6](http://foundation.zurb.com/sites/docs/) CSS framework
 * [Sass](http://sass-lang.com/) CSS preprocessing
 * Code management workflows using [Gulp](http://gulpjs.com/)
+  * JavaScript and CSS Optimization
+  * Creating and utilizing source maps
 
 #### Dev Ops
 * Deployment to [Heroku](https://www.heroku.com/platform)
