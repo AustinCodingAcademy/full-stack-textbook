@@ -28,7 +28,7 @@
 ## MAMP
 * Download from https://www.mamp.info/en/
 * Mac/Linux
-  1. run `echo "export PATH=/Applications/MAMP/bin/php/php5.6.10/bin:$PATH" >> >> ~/.bash_profile` then restart your terminal.
+  1. run `echo "export PATH=/Applications/MAMP/bin/php/php5.6.10/bin:$PATH" >> ~/.bash_profile` then restart your terminal.
   1. then try `which php` and check to see if `MAMP` is in the file path.
 * Windows
   1. Stay tuned
@@ -42,7 +42,7 @@
 ## Composer
 * Run `curl -sS https://getcomposer.org/installer | php` in your terminal
   * Mac/Linux
-    1. Run `echo "export PATH=~/.composer/vendor/bin:$PATH" >> >> ~/.bash_profile`
+    1. Run `echo "export PATH=~/.composer/vendor/bin:$PATH" >> ~/.bash_profile`
     2. restart terminal
   * (Windows) Stay tuned
 
