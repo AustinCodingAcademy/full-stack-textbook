@@ -43,7 +43,11 @@
 * Run `curl -sS https://getcomposer.org/installer | php` in your terminal
   * Mac/Linux
     1. Run `echo "export PATH=~/.composer/vendor/bin:$PATH" >> ~/.bash_profile`
-    2. restart terminal
+    1. You need to move your `composer.phar` into your path. In the terminal (navigated inside the directory with `composer.phar`) run `mv composer.phar /usr/local/bin/composer`.
+      *  If you get a `permissions` error, run it again with `sudo` at the beginning. 
+      *  If you get a `no such directory exists` error, run `mkdir -p /usr/local/bin`.
+        *  If that gives you a `permissions` error, run with `sudo` (see the pattern?)
+    1. restart terminal
   * (Windows) Stay tuned
 
 ## Laravel Package
