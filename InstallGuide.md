@@ -53,15 +53,16 @@
 
 ## Composer
 1. In your terminal, navigate into your home directory `cd`
-* Run `curl -sS https://getcomposer.org/installer | php` in your terminal
-  * Mac
-    1. Run `echo "export PATH=~/.composer/vendor/bin:$PATH" >> ~/.bash_profile`
-    1. Run `mv composer.phar /usr/local/bin/composer`.
-      *  If you get a `permissions` error, run it again with `sudo` at the beginning. 
-      *  If you get a `no such directory exists` error, run `mkdir -p /usr/local/bin`.
-        *  If that gives you a `permissions` error, run with `sudo` (see the pattern?)
-    1. restart terminal
-  * (Windows) Stay tuned
+1. Mac 
+  1. Run `curl -sS https://getcomposer.org/installer | php` in your terminal
+  1. Run `echo "export PATH=~/.composer/vendor/bin:$PATH" >> ~/.bash_profile`
+  1. Run `mv composer.phar /usr/local/bin/composer`.
+    *  If you get a `permissions` error, run it again with `sudo` at the beginning. 
+    *  If you get a `no such directory exists` error, run `mkdir -p /usr/local/bin`.
+      *  If that gives you a `permissions` error, run with `sudo` (see the pattern?)
+1. Windows
+  * Download and install  from https://getcomposer.org/Composer-Setup.exe 
+1. restart terminal
 
 ## Laravel Package
 * run `composer global require "laravel/installer"`
