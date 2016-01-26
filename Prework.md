@@ -17,8 +17,8 @@
         1. navigate into the project directory: `cd quickstart/`
         1. create your database: `touch database/database.sqlite`
         1. in your `.env` file, add `DB_CONNECTION=sqlite`
-        1. install dependencies `composer install`
-        1. run `php artisan migrate`
+        1. install dependencies by running `composer install`
+        1. migrate default migrations by running `php artisan migrate`
   * Frontend
     * [Codecademy JavaScript Tutorial](https://www.codecademy.com/learn/javascript)
     * [Codecademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
