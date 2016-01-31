@@ -60,11 +60,11 @@
   * Mac
     1. Run `sudo mkdir -p /usr/local/bin`
     1. Run `curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer`
-    2. Run `echo 'export PATH=~/.composer/vendor/bin:PATH' >> ~/.bash_profile`
+    2. Run `echo 'export PATH=~/.composer/vendor/bin:$PATH' >> ~/.bash_profile`
   * Windows
     1. Download and install from https://getcomposer.org/Composer-Setup.exe
     1. When prompted for your PHP path, enter `C:\MAMP\bin\php\php5.6.10\php.exe` using your selected version from earlier
-    1. Run `echo 'export PATH=/c/Users/Kevin/AppData/Roaming/Composer/vendor/bin:PATH' >> ~/.bash_profile`
+    1. Run `echo 'export PATH=/c/Users/Kevin/AppData/Roaming/Composer/vendor/bin:$PATH' >> ~/.bash_profile`
 
 1. restart terminal
 
