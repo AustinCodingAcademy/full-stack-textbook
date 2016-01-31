@@ -40,7 +40,7 @@
   * (Mac) In your terminal, run `ls /Applications/MAMP/bin/php/` for your list of available versions
   * (Windows) In your terminal, run `ls /c/MAMP/bin/php/` for your list of available versions
 1. Add MAMP php to path
-  * (Mac) run using the selected version `echo "export PATH=/Applications/MAMP/bin/php/php5.6.10/bin:$PATH" >> ~/.bash_profile`
+  * (Mac) run using the selected version `echo 'export PATH=/Applications/MAMP/bin/php/php5.6.10/bin:$PATH' >> ~/.bash_profile`
   * (Windows)
     1. Run using the selected version `echo 'export PATH=/c/MAMP/bin/php/php5.6.10/:$PATH' >> ~/.bash_profile`
     1. Go to your Control Panel > System and Security > System > Advanced System Settings > Environment Variables
