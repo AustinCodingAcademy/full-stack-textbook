@@ -13,11 +13,11 @@ At the heart of every app, the only real value lies in the database. The design 
 ##### Primary Keys
 ##### Foreign Keys
 ##### Relationships
-* Has One
-* Has Many
-* Belongs To
-* Has Many Through
-* Many-to-Many
+* One to One ([hasOne](https://laravel.com/docs/5.2/eloquent-relationships#one-to-one))
+* One to Many ([hasMany](https://laravel.com/docs/5.2/eloquent-relationships#one-to-many))
+* Inverse Relationship (belongsTo)
+* Many-to-Many ([belongsToMany](https://laravel.com/docs/5.2/eloquent-relationships#many-to-many))
+* Has Many Through ([hasManyThrough](https://laravel.com/docs/5.2/eloquent-relationships#has-many-through))
 
 ## Homework
 On http://ondras.zarovi.cz/sql/demo/ is a great tool for visualizing databases.
