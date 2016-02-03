@@ -13,6 +13,11 @@ At the heart of every app, the only real value lies in the database. The design 
 ##### Primary Keys
 ##### Foreign Keys
 ##### Relationships
+* Has One
+* Has Many
+* Belongs To
+* Has Many Through
+* Many-to-Many
 
 ## Homework
 On http://ondras.zarovi.cz/sql/demo/ is a great tool for visualizing databases.
