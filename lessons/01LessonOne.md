@@ -20,7 +20,7 @@ At the heart of every app, the only real value lies in the database. The design 
 * Has Many Through ([hasManyThrough](https://laravel.com/docs/5.2/eloquent-relationships#has-many-through))
 
 ## Homework
-On http://ondras.zarovi.cz/sql/demo/ is a great tool for visualizing databases.
+On http://ondras.zarovi.cz/sql/demo/ is a great tool for visualizing databases. [Here's a video](https://www.youtube.com/watch?v=hCQzJx9AKhU) tutorial on how to use it. 
 
 [Here](https://gist.githubusercontent.com/mistakevin/7152054fcdf022e73e71/raw/3e58a4121da0e15c61bc879dabcf633fae3869f8/breddit.xml) is the database design we built in class. Click "Save/Load" in the table builder screen, then copy and paste that into the "Input/Out", then click "Load XML" to view.
 
