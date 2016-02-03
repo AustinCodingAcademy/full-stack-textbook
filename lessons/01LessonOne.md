@@ -3,14 +3,16 @@
 ## Lesson One
 
 ### "Spec"ing out the MVP
-All great apps start out as an idea. That idea is broken down into smaller, more detailed, ideas, called "specs", or specifications. The ideas are expanded, prioritized, and cut until you have the map to your MVP (Minimum Viable Product). This is the level your app needs to reach before you, an investor, or a small level of test users decide of your app has potential or if it's worth spending any more of your precious time on.
+All great apps start out as an idea. That idea is broken down into smaller, more detailed, ideas, called "specs", or specifications. The ideas are expanded, prioritized, and cut until you have the map to your MVP (Minimum Viable Product). This is the level your app needs to reach before you, an investor, or a small level of test users decide if your app has potential or if it's worth spending any more of your precious time on.
 
 ### Database Design
-At the heart of every app, the only real value lies in the database. The design of this database from the start is vital to the speed at which you can develop. Drawing a diagram is usually a good idea, either by hand or with software such as http://ondras.zarovi.cz/sql/demo/
+At the heart of every app, the only real value lies in the database. The design of this database is vital to the speed at which you can develop.
 
-#### Primary Keys
-#### Foreign Keys
-#### Relationships
+#### Tables
+
+##### Primary Keys
+##### Foreign Keys
+##### Relationships
 
 ## Homework
 [Here](https://gist.githubusercontent.com/mistakevin/7152054fcdf022e73e71/raw/3e58a4121da0e15c61bc879dabcf633fae3869f8/breddit.xml) is the database we built in class. Click "Save/Load" in the table builder scren, then copy and paste that into the "Input/Out", then click "Load XML" to view.
