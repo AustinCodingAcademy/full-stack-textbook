@@ -9,8 +9,8 @@ All great apps start out as an idea. That idea is broken down into smaller, more
 At the heart of every app, the only real value lies in the database. The design of this database from the start is vital to the speed at which you can develop. Drawing a diagram is usually a good idea, either by hand or with software such as http://ondras.zarovi.cz/sql/demo/
 
 #### Primary Keys
-#### Column Types
-#### Foreign Keys and Relationships
+#### Foreign Keys
+#### Relationships
 
 ## Homework
 [Here](https://gist.githubusercontent.com/mistakevin/7152054fcdf022e73e71/raw/3e58a4121da0e15c61bc879dabcf633fae3869f8/breddit.xml) is the database we built in class. Click "Save/Load" in the table builder scren, then copy and paste that into the "Input/Out", then click "Load XML" to view.
