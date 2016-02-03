@@ -6,9 +6,10 @@
 All great apps start out as an idea. That idea is broken down into smaller, more detailed, ideas, called "specs", or specifications. The ideas are expanded, prioritized, and cut until you have the map to your MVP (Minimum Viable Product). This is the level your app needs to reach before you, an investor, or a small level of test users decide if your app has potential or if it's worth spending any more of your precious time on.
 
 ### Database Design
-At the heart of every app, the only real value lies in the database. The design of this database is vital to the speed at which you can develop.
+At the heart of every app, the only real value lies in the database. The design of the database is vital to the speed at which you can develop and query for data.
 
 #### Tables
+Tables do not merely contain data, but have relationships with other tables.
 
 ![](https://docs.google.com/drawings/d/1yLCybtJM6l9CJmXllpCr7uHCJQm1Sr2p8ZFJYP7FnlE/pub?w=1440&h=1080)
 
