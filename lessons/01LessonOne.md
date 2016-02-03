@@ -15,12 +15,14 @@ At the heart of every app, the only real value lies in the database. The design 
 ##### Relationships
 
 ## Homework
+On http://ondras.zarovi.cz/sql/demo/ is a great tool for visualizing databases.
+
 [Here](https://gist.githubusercontent.com/mistakevin/7152054fcdf022e73e71/raw/3e58a4121da0e15c61bc879dabcf633fae3869f8/breddit.xml) is the database we built in class. Click "Save/Load" in the table builder scren, then copy and paste that into the "Input/Out", then click "Load XML" to view.
 
-On http://ondras.zarovi.cz/sql/demo/, build two database designs for the following app descriptions. To "Save" a design, you simply click the "Save/Load" button in the table builder screen, then "Save XML". The code that is generated in the "Input/Output" box should be saved in a text file, like _bocket.txt_, on your desktop for now, or in a [gist](https://gist.github.com/)! 
+Build amd save two database designs for the following app descriptions. To "Save" a design, you simply click the "Save/Load" button in the table builder screen, then "Save XML". The code that is generated in the "Input/Output" box should be saved in a text file, like _bocket.xml_, on your desktop, or in a [gist](https://gist.github.com/)! 
 
 ### Bocket
 Bocket is a "Better" bookmarking service, much like [Pocket](getpocket.com). Users each has a username, email, password. They each have many Bookmarks, which are made up by a link and a user_id. Each Bookmark can have many Tags, which are simply made up of user_id and a name.
 
 ### Bitter
-Bitter is a "Better" posting app which shares features from Twitter and Facebook. A User can have many Posts. Each Post can have many likes by other users.
+Bitter is a "Better" posting app which shares features from Twitter and Facebook. A User can have many Posts. Each Post can have many likes, which are made by other Users!
