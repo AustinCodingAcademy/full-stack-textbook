@@ -10,9 +10,9 @@ At the heart of every app, the only real value lies in the database. The design 
 
 #### Tables
 
-##### Primary Keys
-##### Foreign Keys
-##### Relationships
+![](https://docs.google.com/drawings/d/1yLCybtJM6l9CJmXllpCr7uHCJQm1Sr2p8ZFJYP7FnlE/pub?w=1440&h=1080)
+
+##### Laravel Relationships
 * One to One ([hasOne](https://laravel.com/docs/5.2/eloquent-relationships#one-to-one))
 * One to Many ([hasMany](https://laravel.com/docs/5.2/eloquent-relationships#one-to-many))
 * Inverse Relationship (belongsTo)
