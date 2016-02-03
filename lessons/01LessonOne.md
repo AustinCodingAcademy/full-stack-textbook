@@ -22,7 +22,7 @@ At the heart of every app, the only real value lies in the database. The design 
 ## Homework
 On http://ondras.zarovi.cz/sql/demo/ is a great tool for visualizing databases.
 
-[Here](https://gist.githubusercontent.com/mistakevin/7152054fcdf022e73e71/raw/3e58a4121da0e15c61bc879dabcf633fae3869f8/breddit.xml) is the database design we built in class. Click "Save/Load" in the table builder scren, then copy and paste that into the "Input/Out", then click "Load XML" to view.
+[Here](https://gist.githubusercontent.com/mistakevin/7152054fcdf022e73e71/raw/3e58a4121da0e15c61bc879dabcf633fae3869f8/breddit.xml) is the database design we built in class. Click "Save/Load" in the table builder screen, then copy and paste that into the "Input/Out", then click "Load XML" to view.
 
 Build amd save two database designs for the following app descriptions. To "Save" a design, you simply click the "Save/Load" button in the table builder screen, then "Save XML". The code that is generated in the "Input/Output" box should be saved in a text file, like _bocket.xml_, on your desktop, or in a [gist](https://gist.github.com/)! 
 
