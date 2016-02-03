@@ -12,7 +12,13 @@
     * [Codecademy PHP Tutorial](https://www.codecademy.com/learn/php)
     * [SQLZOO SQL Tutorials and Quizzes](http://sqlzoo.net/wiki/SQL_Tutorial)
     * [Laravel 5.1 Fundamentals](http://devdojo.com/series/laravel-5-1-basics)
-    * [Laravel - Build a Basic Task List](http://laravel.com/docs/5.1/quickstart)
+    * [Laravel - Build a Basic Task List](https://laravel.com/docs/5.2/quickstart)
+      * To set up your database for this tutorial:
+        1. navigate into the project directory: `cd quickstart/`
+        1. create your database: `touch database/database.sqlite`
+        1. in your `.env` file, add `DB_CONNECTION=sqlite`
+        1. install dependencies by running `composer install`
+        1. migrate default migrations by running `php artisan migrate`
   * Frontend
     * [Codecademy JavaScript Tutorial](https://www.codecademy.com/learn/javascript)
     * [Codecademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
