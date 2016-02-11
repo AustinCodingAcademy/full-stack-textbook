@@ -8,4 +8,5 @@
 * Building Models
 * Defining Relationships
 * Using Eloquent
-[![Video Tutorial](http://img.youtube.com/vi/jM2l8iKr6TE.jpg)](https://youtu.be/jM2l8iKr6TE)
+
+[![Video Tutorial](http://img.youtube.com/vi/jM2l8iKr6TE/0.jpg)](https://youtu.be/jM2l8iKr6TE)
