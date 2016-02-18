@@ -118,3 +118,5 @@ $threeCarGarage->add($aFewCars[0]); //=> 2
 $threeCarGarage->add($aFewCars[1]); //=> 3
 $threeCarGarage->add($aFewCars[2]); //=> "Sorry, we're full"
 ```
+[![Video Tutorial](http://img.youtube.com/vi/yLC-hOY9I4I/0.jpg)](https://youtu.be/yLC-hOY9I4I)
+
