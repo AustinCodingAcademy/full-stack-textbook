@@ -18,7 +18,7 @@
 
 #### [Lesson 9](https://www.youtube.com/watch?v=KqtBfcWwvO8&feature=youtu.be)
 
-#### Lesson 10:
+#### [Lesson 10](https://www.youtube.com/watch?v=99hKf-SUCfU)
 
 #### Lesson 11:
 
