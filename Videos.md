@@ -2,9 +2,7 @@
 
 #### [Lesson 2](https://www.youtube.com/watch?v=jM2l8iKr6TE)
 
-#### [Lesson 3.1](https://youtu.be/YRZRL9LGIHI https://youtu.be/4J7Foqs2vYQ) 
-
-#### [Lesson 3.2](https://www.youtube.com/watch?v=4J7Foqs2vYQ&feature=youtu.be)
+#### [Lesson 3](https://www.youtube.com/watch?v=jM2l8iKr6TE&feature=youtu.be) 
 
 #### [Lesson 4](https://www.youtube.com/watch?v=yLC-hOY9I4I&feature=youtu.be)
 
