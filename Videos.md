@@ -14,7 +14,7 @@
 
 #### [Lesson 7](https://www.youtube.com/watch?v=AykqZq1qk9c&feature=youtu.be)
 
-#### Lesson 8: 
+#### [Lesson 8](https://www.youtube.com/watch?v=4KqbxRYorcM&feature=youtu.be) 
 
 #### [Lesson 9](https://www.youtube.com/watch?v=KqtBfcWwvO8&feature=youtu.be)
 
