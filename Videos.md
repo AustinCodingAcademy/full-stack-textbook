@@ -20,7 +20,7 @@
 
 #### [Lesson 11](https://www.youtube.com/watch?v=Q2SxAJGYB7A)
 
-#### Lesson 12:
+#### [Lesson 12](https://www.youtube.com/watch?v=6KpCNSR1yWw)
 
 #### Lesson 13:
 
