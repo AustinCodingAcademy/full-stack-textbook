@@ -28,7 +28,7 @@ Work to be completed **before** the first class begins.
   * Model-View-* (MV*) Architecture
 * Utilizing popular libraries such as [Underscore](http://underscorejs.org/) and [jQuery](http://jquery.com/)
 * RESTful API consumption
-* [Foundation 6](http://foundation.zurb.com/sites/docs/) CSS framework
+* [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/) CSS framework
 * [Sass](http://sass-lang.com/) CSS preprocessing
 * Code management workflows using [Gulp](http://gulpjs.com/)
   * JavaScript and CSS Optimization
