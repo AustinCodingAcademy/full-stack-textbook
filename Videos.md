@@ -31,3 +31,5 @@
 #### [Setting Up Heroku](https://youtu.be/sTb6qo5keqc)
 
 #### [Lesson 16](https://youtu.be/abWpeiSEZBg)
+
+#### [Lesson 17](https://www.youtube.com/watch?v=h07E-m6tEB0)
