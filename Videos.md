@@ -1,7 +1,5 @@
 ## Lesson Videos
 
-#### [Lesson 2](https://www.youtube.com/watch?v=jM2l8iKr6TE)
-
 #### [Lesson 3](https://www.youtube.com/watch?v=jM2l8iKr6TE&feature=youtu.be) 
 
 #### [Lesson 4](https://www.youtube.com/watch?v=yLC-hOY9I4I&feature=youtu.be)
